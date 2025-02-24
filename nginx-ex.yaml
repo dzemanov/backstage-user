@@ -15,5 +15,5 @@ metadata:
 spec:
   type: service
   system: myapp
-  owner: janus-authors
+  owner: guests
   lifecycle: production
