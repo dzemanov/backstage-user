@@ -15,5 +15,5 @@ metadata:
 spec:
   type: service
   system: myapp
-  owner: guest
+  owner: development/guests
   lifecycle: production
