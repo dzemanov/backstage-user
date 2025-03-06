@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-user
+  annotations:
+    github.com/project-slug: dzemanov/backstage-user
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/dzemanov
